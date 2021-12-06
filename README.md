@@ -1,9 +1,9 @@
 # 蘑菇钉自动打卡
-![Go](https://github.com/wuyinsec/moguding-golang/workflows/Go/badge.svg)
-![schedule-start](https://github.com/wuyinsec/moguding-golang/workflows/schedule-start/badge.svg)
-![schedule-end](https://github.com/wuyinsec/moguding-golang/workflows/schedule-end/badge.svg)
+![Go](https://github.com/wuyinsec/moguding-auto/workflows/Go/badge.svg)
+![schedule-start](https://github.com/wuyinsec/moguding-auto/workflows/schedule-start/badge.svg)
+![schedule-end](https://github.com/wuyinsec/moguding-auto/workflows/schedule-end/badge.svg)
 [![GitHub language](https://img.shields.io/badge/language-golang-orange.svg)](https://golang.org/)
-[![GitHub license](https://img.shields.io/github/license/ToWeLong/zhihu-hot-questions)](https://github.com/wuyinsec/moguding-golang/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ToWeLong/zhihu-hot-questions)](https://github.com/wuyinsec/moguding-auto/blob/main/LICENSE)
 
 # 0x00 介绍
 
